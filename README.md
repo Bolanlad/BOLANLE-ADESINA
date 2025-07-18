@@ -1,4 +1,4 @@
-<img width="1920" height="880" alt="Screenshot 2025-07-18 at 15-05-09 PALMORA pdf" src="https://github.com/user-attachments/assets/7923a400-a13d-4b3e-9750-f211267cc73c" />
+
 [Amzone sheet for project DSA for chap(1).xlsx](https://github.com/user-attachments/files/21317108/Amzone.sheet.for.[Amazon case study.xlsx](https://github.com/user-attachments/files/21317128/Amazon.case.study.xlsx).DSA.for.chap.1.xlsx)
 AS a DSA student,I am  working  on a Capstone Project .I am working on two Companies(Amazon and Palmora group) database using different tools for report.In my report, i am using Excel and PowerBI in my analysis.I find the whole experience interesting because, i analzysed and made recommendations for both Organisations.
 
@@ -86,6 +86,43 @@ This report provides data-driven recommendations to improve product visibility, 
 
 
 <img width="1920" height="880" alt="Screenshot 2025-07-18 at 15-05-09 PALMORA pdf" src="https://github.com/user-attachments/assets/c868398b-6b24-4207-ae25-628fd2add853" />
+
+
+Strategic Insights & Recommendations
+
+  To strengthen Palmoria Group’s positioning and align with global business standards, the following strategic initiatives are recommended:
+  
+Align Internal Structure with Global Standards
+
+•	Restructure internal operations to meet internationally accepted practices.
+•	Ensure compliance, scalability, and streamlined decision-making.
+•	2. Emphasize Diversity, Sustainability, and Innovation
+
+•	Position Palmoria as a forward-thinking, inclusive, and eco-conscious brand.
+•	Embed ESG (Environmental, Social, and Governance) values into all levels of the business.
+
+•	3 Provide International Certifications & Training
+
+•	Equip employees with globally recognized credentials.
+•	Partner with reputable institutions to deliver industry-standard training. 
+•	
+•	Invest in4. Digital Tools & Workforce Upskilling
+
+•	Adopt cutting-edge technologies to enhance productivity and insights.
+•	Prioritize continuous learning and digital literacy across teams.
+
+Conclusion: 
+
+Palmoria Group is Positioned for Growth
+
+Palmoria Group stands at a strategic inflection point. With clear internal restructuring and an outward-facing, globally relevant strategy:
+
+•	Operational gaps will be bridged, enabling stronger performance and execution.
+•	 Regional expansion and gender equity initiatives will elevate brand trust and visibility.
+•	 A global strategy focused on innovation and talent development will propel Palmoria toward international recognition.
+
+    
+
 
 
 
