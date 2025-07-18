@@ -1,1 +1,1 @@
-
+AS a DSA student,I am  working  on a Capstone Project .I am working on two Companies(Amazon and Palmora group) database using different tools for report.In my report, i am using Excel and PowerBI in my analysis.I find the whole experience interesting because, i analzysed and made recommendations for both Organisations.
