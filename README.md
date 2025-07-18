@@ -1,3 +1,4 @@
+<img width="1920" height="880" alt="Screenshot 2025-07-18 at 15-05-09 PALMORA pdf" src="https://github.com/user-attachments/assets/7923a400-a13d-4b3e-9750-f211267cc73c" />
 [Amzone sheet for project DSA for chap(1).xlsx](https://github.com/user-attachments/files/21317108/Amzone.sheet.for.[Amazon case study.xlsx](https://github.com/user-attachments/files/21317128/Amazon.case.study.xlsx).DSA.for.chap.1.xlsx)
 AS a DSA student,I am  working  on a Capstone Project .I am working on two Companies(Amazon and Palmora group) database using different tools for report.In my report, i am using Excel and PowerBI in my analysis.I find the whole experience interesting because, i analzysed and made recommendations for both Organisations.
 
@@ -78,6 +79,13 @@ Conclusion
 
 This report provides data-driven recommendations to improve product visibility, customer satisfaction, and profitability. Regular monitoring of customer feedback and performance metrics is essential to sustain competitive advantage and ensure consistent product quality.
 
+
+
+
+
+
+
+<img width="1920" height="880" alt="Screenshot 2025-07-18 at 15-05-09 PALMORA pdf" src="https://github.com/user-attachments/assets/c868398b-6b24-4207-ae25-628fd2add853" />
 
 
 
