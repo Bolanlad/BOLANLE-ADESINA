@@ -1,3 +1,4 @@
+[Amzone sheet for project DSA for chap(1).xlsx](https://github.com/user-attachments/files/21317108/Amzone.sheet.for.[Amazon case study.xlsx](https://github.com/user-attachments/files/21317128/Amazon.case.study.xlsx).DSA.for.chap.1.xlsx)
 AS a DSA student,I am  working  on a Capstone Project .I am working on two Companies(Amazon and Palmora group) database using different tools for report.In my report, i am using Excel and PowerBI in my analysis.I find the whole experience interesting because, i analzysed and made recommendations for both Organisations.
 
 My first case study is AMAZON, I am reviewing the Products.
